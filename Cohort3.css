@@ -1,0 +1,93 @@
+.box{
+   
+    background-image: url("images/images\ \(34\).jpeg");
+    background-size: cover;
+    height: 80%;
+    
+}
+.content{
+    padding: 100px 70px;
+}
+.text{
+    float: left;
+    width: 50%;
+    color: white;
+}
+.form{
+    float: left;
+    width: 35%;
+    background-color: black;
+    padding: 20px 30px;
+}
+input{
+    width: 400px;
+    margin: 8px;
+    padding: 10px;
+}
+h3 , p{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.button{
+    background-color: rgb(42, 233, 4);
+}
+.service{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 50px;
+    
+}
+.testimonials{
+    background-color: rgb(255, 226, 229);
+    
+}
+.testy{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+p{
+    color: black;
+}
+.girl{
+    
+    padding: 20px 200px;
+}
+.boy{
+    
+    padding: 20px 200px;
+}
+i{
+    background-color: cornsilk;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: cyan;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border: 10px white;
+    border-radius: 50%;
+    
+}
+hr{
+    width: 250px;
+    
+}
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 1.5em;
+}
